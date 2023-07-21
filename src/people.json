@@ -2,31 +2,37 @@
   {
     "name": "John",
     "surname": "Pork",
-    "age": 31
+    "age": 31,
+    "pfp": "https://play-lh.googleusercontent.com/tAzzua4pfoGgUHhFAoFjbXkrARYjA8EiX9Qb3MSmgSga7MlUJ5GcPGxP0oMWrd1Ojg"
   },
   {
-    "name": "picro",
-    "surname": "nicro",
-    "age": 15
+    "name": "el",
+    "surname": "deg",
+    "age": 15,
+    "pfp": "https://cdn.discordapp.com/avatars/525714575283453982/3370c196634155bc5ae15d5f8e8c3870.png?size=512"
   },
   {
-    "name": "",
-    "surname": "Pork",
-    "age": 31
+    "name": "Megamind",
+    "surname": "idk",
+    "age": 30,
+    "pfp": "https://moodoffdp.com/wp-content/uploads/2023/06/matching-pfp-funny.jpg"
   },
   {
-    "name": "John",
-    "surname": "Pork",
-    "age": 31
+    "name": "The Wok",
+    "surname": "Johnson",
+    "age": 51,
+    "pfp": "https://us-tuna-sounds-images.voicemod.net/0bfe0bf2-fd85-4885-9a2c-2db366e1f632-1658328142476-thumbnailS.png"
   },
   {
-    "name": "John",
-    "surname": "Pork",
-    "age": 31
+    "name": "karen",
+    "surname": "",
+    "age": 0,
+    "pfp": ""
   },
   {
-    "name": "John",
-    "surname": "Pork",
-    "age": 31
+    "name": "placeholder",
+    "surname": "placeholder",
+    "age": 1,
+    "pfp": ""
   }
 ]
