@@ -25,13 +25,13 @@
   },
   {
     "name": "karen",
-    "surname": "",
-    "age": 0,
+    "surname": "notKaren",
+    "age": 21,
     "pfp": ""
   },
   {
-    "name": "placeholder",
-    "surname": "placeholder",
+    "name": "random",
+    "surname": "person",
     "age": 1,
     "pfp": ""
   }

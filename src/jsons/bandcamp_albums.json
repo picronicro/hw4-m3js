@@ -1,0 +1,32 @@
+[
+  {
+    "album": "MIXPEED ACTION",
+    "author": "Kobaryo",
+    "genre": ["speedcore", "hardcore"],
+    "date": 2018
+  },
+  {
+    "album": "A Happy Place ",
+    "author": "Whitley",
+    "genre": ["chiptune", "fakebit", "chill"],
+    "date": 2021
+  },
+  {
+    "album": "Train Radio",
+    "author": "Pterodactyl Squad",
+    "genre": ["chiptune", "japan"],
+    "date": 2021
+  },
+  {
+    "album": "dethrone",
+    "author": "The Queenstons",
+    "genre": ["drum-n-bass", "ambient", "hardcore"],
+    "date": 2014
+  },
+  {
+    "album": "Mainstream",
+    "author": "Reboot Me",
+    "genre": ["chiptune"],
+    "date": 2014
+  }
+]

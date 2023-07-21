@@ -39,6 +39,7 @@ body {
     height: 100%;
     position: absolute;
     background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(20px);
 
     display: flex;
     align-items: center;
@@ -67,6 +68,13 @@ button:active {
 
 button:disabled {
     color: gray;
+    transition: 1s;
+}
+
+/* fade out */
+.fade_out {
+    opacity: 0;
+    backdrop-filter: none;
     transition: 1s;
 }
 
